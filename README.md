@@ -56,7 +56,7 @@ project/
    node index.js
    ```
 
-6. Open `http://localhost:8080` in your browser, or use the port configured in your application.
+6. Open `http://localhost:3000` in your browser, or use the port configured in your application.
 
 ## Learning Outcomes
 
