@@ -70,5 +70,3 @@ This project helped me practice Express routing, CRUD operations, EJS templating
 - Improved UI and responsive design
 
 ---
-
-**Note:** Never commit your `.env` file or expose database credentials publicly.
